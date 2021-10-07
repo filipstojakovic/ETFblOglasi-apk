@@ -1,4 +1,7 @@
-# ETFblOglasi
+# ETFblOglasi (old)
+
+#Zastarijela aplikacija, nova aplikacija je dostupna na Google Play:
+https://play.google.com/store/apps/details?id=org.unibl.etf.etfoglasi
 
 Aplikacija za pregled oglasa Elektrotehnickog fakulteta Banja Luka.
 
